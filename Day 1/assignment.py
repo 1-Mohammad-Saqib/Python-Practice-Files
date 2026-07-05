@@ -1,0 +1,8 @@
+Name = input("Enter your name: ")
+Age = int(input("Enter your age: "))
+City = input("Enter your city name: ")
+Lang = input("Enter your favorite programming language: ")
+print(f"Name : {Name}")
+print(f"Age : {Age}")
+print(f"City : {City}")
+print(f"Language : {Lang}")
